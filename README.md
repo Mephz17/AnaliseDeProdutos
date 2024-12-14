@@ -60,8 +60,8 @@ A correlação entre duas variáveis é calculada com base na fórmula:
 
 
 - Onde:
-  - \( x_i \) e \( y_i \) são os valores individuais das variáveis.
-  - \( \bar{x} \) e \( \bar{y} \) são as médias das variáveis \( x \) e \( y \).
+  - xi e yi são os valores individuais das variáveis.
+  - x e y são as médias das variáveis x e y.
 
 ### Faturamento
 
