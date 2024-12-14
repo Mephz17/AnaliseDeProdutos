@@ -56,9 +56,8 @@ O projeto tem como objetivo analisar a relação entre preço, qualidade e venda
 
 A correlação entre duas variáveis é calculada com base na fórmula:
 
-\[
-R = \frac{\sum((x_i - \bar{x})(y_i - \bar{y}))}{\sqrt{\sum(x_i - \bar{x})^2 \cdot \sum(y_i - \bar{y})^2}}
-\]
+![image](https://github.com/user-attachments/assets/6842ae32-047f-4120-af13-d62bd867e20d)
+
 
 - Onde:
   - \( x_i \) e \( y_i \) são os valores individuais das variáveis.
